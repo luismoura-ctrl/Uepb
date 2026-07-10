@@ -1,3 +1,7 @@
+PARADIGMAS
+
+================================================================
+
 OBJETIVO DO REPOSITÓRIO:
 
 No projeto acima está apresentado um projeto simulando cadastros em um hotel pra exemplificar 
